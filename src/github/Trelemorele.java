@@ -13,6 +13,8 @@ public class Trelemorele {
 			i++;
 			
 		}
+		
+		System.out.println(i);
 
 	}
 
